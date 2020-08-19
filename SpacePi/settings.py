@@ -25,7 +25,7 @@ SECRET_KEY = 'wnf#0id!a&rqe0tv3!w%v=tz-*dsjbar*&&d(h$w2xw)279hhl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.space-pi-api.com']
 
 
 # Application definition
