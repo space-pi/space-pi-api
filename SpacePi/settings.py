@@ -134,4 +134,5 @@ CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:8081',
+    'http://www.space-pi.com',
 )
